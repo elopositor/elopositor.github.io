@@ -1,0 +1,3 @@
+# Pagina personal con datos de contacto: no se quiere en buscadores.
+User-agent: *
+Disallow: /
